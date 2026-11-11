@@ -10,8 +10,8 @@ The LLM plans **actions**. The app parses and validates each one, asks before an
 
 CS4680 Prompt Engineering, Assignment 4 (AI Agent Project). It builds on my Assignment 3 rules explainer, reusing its rules index, LLM client and citation checker.
 
-- **Deployed app:** _add the Streamlit Community Cloud URL here_
-- **Demo video (1-2 min):** _add the YouTube URL here_
+- **Deployed app:** https://4780a4-4x5z529ya5zcsgnrskmb7q.streamlit.app/
+- **Demo video (1:17):** https://youtube.com/shorts/gwLFcTNKgP8
 
 > Not affiliated with or endorsed by Riot Games. Riftbound and League of Legends are trademarks of Riot Games, Inc. The app links to and quotes Riot's public rules documents for educational use.
 
