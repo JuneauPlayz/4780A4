@@ -1,0 +1,36 @@
+{
+ "name": "old-draven",
+ "format": "standard",
+ "legend": "Draven, Glorious Executioner",
+ "champion": "Draven, Vanquisher",
+ "main": {
+  "Draven, Vanquisher": 3,
+  "Spinning Axe": 2,
+  "Chemtech Enforcer": 3,
+  "Legion Rearguard": 3,
+  "Noxus Hopeful": 3,
+  "Immortal Phoenix": 3,
+  "Captain Farron": 3,
+  "Blazing Scorcher": 2,
+  "Hextech Ray": 3,
+  "Void Seeker": 3,
+  "Falling Star": 3,
+  "Cleave": 3,
+  "Stacked Deck": 2,
+  "Get Excited!": 3,
+  "Scrapheap": 1
+ },
+ "runes": {
+  "Fury Rune": 6,
+  "Chaos Rune": 6
+ },
+ "battlefields": [
+  "Reaver's Row",
+  "Back-Alley Bar",
+  "Navori Fighting Pit"
+ ],
+ "sideboard": {},
+ "notes": "Last season's list, before the September 2026 bans.",
+ "created_at": "2026-11-01T00:00:00+00:00",
+ "updated_at": "2026-11-01T00:00:00+00:00"
+}

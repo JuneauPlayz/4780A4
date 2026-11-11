@@ -1,0 +1,152 @@
+{
+  "fetched_at": "2026-11-10T18:32:54-08:00",
+  "rules_hub": "https://playriftbound.com/en-us/rules-hub/",
+  "core_rules": {
+    "title": "Riftbound Core Rules",
+    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "last_updated": "2026-10-09",
+    "effective_date": "2026-10-16",
+    "effective_date_source": "Core Rules: Radiance Patch Notes (Effective October 16, 2026)",
+    "rules_indexed": 2494
+  },
+  "documents": [
+    {
+      "kind": "legality",
+      "title": "Rules Hub: Format Legality",
+      "url": "https://playriftbound.com/en-us/rules-hub/",
+      "date": "2026-09-18",
+      "passages": 1
+    },
+    {
+      "kind": "core_rules",
+      "title": "Riftbound Core Rules",
+      "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+      "last_updated": "2026-10-09",
+      "pages": 142,
+      "rules_indexed": 2494,
+      "passages": 312,
+      "sha256": "94d41fee86f88b61c4157c0389c0595d990b98e5b42555c99d9f649ee64d1fec"
+    },
+    {
+      "kind": "tournament_rules",
+      "title": "Riftbound Tournament Rules",
+      "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/861752822d217edf37d9febaeaf77a7d924c1bb6.pdf",
+      "last_updated": "2026-10-09",
+      "pages": 53,
+      "rules_indexed": 976,
+      "passages": 82,
+      "sha256": "ce07da4fb632526afbbce7f058287a57e7444fa6bde17b0938ff52ce3fab3d07"
+    },
+    {
+      "kind": "patch_notes",
+      "title": "Riftbound Core Rules: Patch Notes",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-core-rules-patch-notes/",
+      "date": "2025-10-24",
+      "passages": 32
+    },
+    {
+      "kind": "patch_notes",
+      "title": "Riftbound Core Rules: Spiritforged Patch Notes",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-core-rules-spiritforged-patch-notes/",
+      "date": "2025-12-05",
+      "passages": 7
+    },
+    {
+      "kind": "patch_notes",
+      "title": "Riftbound Core Rules: Unleashed Patch Notes",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-core-rules-unleashed-patch-notes/",
+      "date": "2026-03-30",
+      "passages": 14
+    },
+    {
+      "kind": "patch_notes",
+      "title": "Core Rules: Vendetta Patch Notes",
+      "url": "https://playriftbound.com/en-us/news/announcements/core-rules-vendetta-patch-notes/",
+      "date": "2026-07-17",
+      "passages": 15
+    },
+    {
+      "kind": "patch_notes",
+      "title": "Core Rules: Radiance Patch Notes (Effective October 16, 2026)",
+      "url": "https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/",
+      "date": "2026-10-09",
+      "passages": 18
+    },
+    {
+      "kind": "errata",
+      "title": "Riftbound: Origins Card Errata",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/",
+      "date": "2025-10-28",
+      "passages": 63
+    },
+    {
+      "kind": "errata",
+      "title": "Riftbound Spiritforged Errata",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+      "date": "2026-01-14",
+      "passages": 33
+    },
+    {
+      "kind": "errata",
+      "title": "Unleashed Errata Updates",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+      "date": "2026-04-03",
+      "passages": 9
+    },
+    {
+      "kind": "errata",
+      "title": "Vendetta Errata Updates",
+      "url": "https://playriftbound.com/en-us/news/announcements/vendetta-errata-updates/",
+      "date": "2026-07-23",
+      "passages": 9
+    },
+    {
+      "kind": "errata",
+      "title": "Radiance Errata Updates",
+      "url": "https://playriftbound.com/en-us/news/announcements/radiance-errata-updates/",
+      "date": "2026-10-09",
+      "passages": 5
+    },
+    {
+      "kind": "faq",
+      "title": "Vendetta Rules FAQ and Clarifications",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/vendetta-rules-faq-and-clarifications/",
+      "date": "2026-08-14",
+      "passages": 36
+    },
+    {
+      "kind": "faq",
+      "title": "Unleashed Rules FAQ and Clarifications",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "date": "2026-04-29",
+      "passages": 27
+    },
+    {
+      "kind": "faq",
+      "title": "Riftbound Spiritforged FAQ",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
+      "date": "2026-01-14",
+      "passages": 33
+    },
+    {
+      "kind": "faq",
+      "title": "Riftbound Origins FAQ",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-faq/",
+      "date": "2025-10-16",
+      "passages": 94
+    },
+    {
+      "kind": "cards",
+      "title": "Official Card Gallery",
+      "url": "https://playriftbound.com/en-us/card-gallery/",
+      "printings": 1408
+    }
+  ],
+  "counts": {
+    "passages": 790,
+    "cards": 1103,
+    "cards_with_errata": 67,
+    "errata_entries": 67,
+    "unmatched_errata": []
+  }
+}

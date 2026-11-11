@@ -1,0 +1,32 @@
+[
+ {
+  "deck": "jinx-starter",
+  "opponent": "Ahri",
+  "result": "win",
+  "notes": "Rocket closed it out"
+ },
+ {
+  "deck": "jinx-starter",
+  "opponent": "Darius",
+  "result": "loss",
+  "notes": ""
+ },
+ {
+  "deck": "jinx-starter",
+  "opponent": "Ahri",
+  "result": "win",
+  "notes": ""
+ },
+ {
+  "deck": "old-draven",
+  "opponent": "Jinx",
+  "result": "loss",
+  "notes": ""
+ },
+ {
+  "deck": "old-draven",
+  "opponent": "Viktor",
+  "result": "win",
+  "notes": ""
+ }
+]

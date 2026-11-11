@@ -1,0 +1,26 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# downloaded originals (rebuild with: python -m riftbound.refresh)
+data/raw/
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# streamlit / editors
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
+
+# local tooling
+.claude/
+
+# rendered demo video (upload to YouTube; too large for the repo)
+video/

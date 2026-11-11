@@ -1,0 +1,36 @@
+{
+ "name": "jinx-starter",
+ "format": "standard",
+ "legend": "Jinx, Loose Cannon",
+ "champion": "Jinx, Rebel",
+ "main": {
+  "Jinx, Rebel": 3,
+  "Super Mega Death Rocket!, Jinx": 2,
+  "Chemtech Enforcer": 3,
+  "Legion Rearguard": 3,
+  "Flame Chompers": 3,
+  "Raging Soul": 3,
+  "Scrapyard Champion": 2,
+  "Undercover Agent": 2,
+  "Traveling Merchant": 3,
+  "Get Excited!": 3,
+  "Hextech Ray": 3,
+  "Void Seeker": 3,
+  "Falling Star": 2,
+  "Treasure Trove": 2,
+  "Cleave": 3
+ },
+ "runes": {
+  "Fury Rune": 6,
+  "Chaos Rune": 6
+ },
+ "battlefields": [
+  "Back-Alley Bar",
+  "Navori Fighting Pit",
+  "Reckoner's Arena"
+ ],
+ "sideboard": {},
+ "notes": "Discard aggro: Jinx, Rebel readies when you discard.",
+ "created_at": "2026-11-01T00:00:00+00:00",
+ "updated_at": "2026-11-01T00:00:00+00:00"
+}
